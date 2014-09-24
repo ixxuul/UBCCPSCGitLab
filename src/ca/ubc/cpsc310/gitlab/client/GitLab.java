@@ -52,6 +52,7 @@ public class GitLab implements EntryPoint {
 				//Window.alert("Got list back with " +  result.size() + " entries");
 				//this is for testing;
 				// conflict solved?
+				// conflict testing 2;
 				displayUsers(result);
 
 			}});
