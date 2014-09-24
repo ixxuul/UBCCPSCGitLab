@@ -51,7 +51,7 @@ public class GitLab implements EntryPoint {
 			public void onSuccess(List<IUser> result) {
 				//Window.alert("Got list back with " +  result.size() + " entries");
 				//this is for testing;
-				// MORE changes!!!!!!! by ME
+				// MORE changes!!!!!!! by ME  so more and more conflict
 				displayUsers(result);
 
 			}});
